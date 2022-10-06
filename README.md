@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carljalal
-- 👀 I’m interested in ... automata abstract art, memory applications
-- 🌱 I’m currently learning ... three.js
+- 👀 I’m interested in ... brain/memory exercises, automata abstract art
+- 🌱 I’m currently learning ... javascript + three.js
 - 💞️ I’m looking to collaborate on ... wholesomeness
 - 📫 How to reach me ... email
 
